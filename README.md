@@ -31,4 +31,4 @@ I am really looking forward to recreate this when I'm better at programming in g
 
 >***Glimpse of the gameplay...***
 
-**_"Created using Scratch for CS50x 2023"_**
+**_"Created using Scratch for Week 0 of CS50x 2023"_**
