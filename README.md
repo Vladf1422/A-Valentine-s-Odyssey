@@ -4,6 +4,8 @@ Play as a **Valentine Arrow**! The sprites were created using **Canva**. It is f
 
 I am really looking forward to recreate this when I'm better at programming in general, resembling the mechanics of this game but altered just a bit...
 
+**Play it at https://scratch.mit.edu/projects/801780093**
+
 ## CONTROLS:
 - Use the arrow keys to control your arrow.
 > To go up, use the  **↑** button
